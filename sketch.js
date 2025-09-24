@@ -1,5 +1,5 @@
 //Global Variables
-  let posX, posY, r, g, b, a, thickness;
+  let posX, posY;
 
 function setup() {
   // Create a canvas that fills the entire screen
